@@ -54,7 +54,7 @@ p {
     background-image: url(quotes2.jpeg) ;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    background-size: 550px;
+    background-size: cover;
     text-align: left;
 }
 
@@ -62,7 +62,7 @@ p {
     background-image: url(luz.jpeg) ;
     background-attachment: scroll;
     background-repeat: no-repeat;
-    background-size: 550px;
+    background-size: cover;
     text-align: left;
 }
 
